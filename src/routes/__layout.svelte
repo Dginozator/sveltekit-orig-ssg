@@ -4,7 +4,6 @@
 </script>
 
 {#if mode != 'production'}
-  <p>hrom</p>
   <script src="https://cdn.tailwindcss.com"></script>
 {/if}
 <slot />
