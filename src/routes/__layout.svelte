@@ -7,4 +7,3 @@
   <script src="https://cdn.tailwindcss.com"></script>
 {/if}
 <slot />
-<p>{mode}</p>
